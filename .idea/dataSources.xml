@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="accountant_db@localhost" uuid="6d3ee126-6b69-4cf0-9185-2ea3cebd8df8">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/accountant_db</jdbc-url>
+      <time-zone>UTC</time-zone>
+    </data-source>
+  </component>
+</project>
